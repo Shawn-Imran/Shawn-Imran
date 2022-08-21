@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FelnaTech](https://felnatech.com/)
 
-- 🌱 I’m currently learning **VUE**
+- 🌱 I’m currently learning **Microservice**
 
 - 💬 Ask me about **Angular, NodeJs, Springboot**
 
