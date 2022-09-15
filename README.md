@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Microservice**
 
-- 💬 Ask me about **Angular, NodeJs, Springboot**
+- 💬 Ask me about **Angular, NodeJs, Nest, Springboot**
 
 - 📫 How to reach me **md.almahmudimran@gmail.com**
 
