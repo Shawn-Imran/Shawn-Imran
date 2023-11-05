@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawn-imran" alt="shawn-imran" /></a> </p>
 
-- 🔭 I’m currently working on [FelnaTech](https://felnatech.com/)
+- 🔭 I’m currently working on [ROMO](https://romo.com/)
 
 - 🌱 I’m currently learning **Microservice**
 
-- 💬 Ask me about **Angular, NodeJs, NestJs, Springboot**
+- 💬 Ask me about **Angular, NodeJs, NestJs, Next.Js, Springboot**
 
 - 📫 How to reach me **md.almahmudimran@gmail.com**
 
