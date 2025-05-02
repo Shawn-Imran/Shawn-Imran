@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawn-imran" alt="shawn-imran" /></a> </p>
 
-- 🔭 I’m currently working on [ROMO Healthcare](https://romohealthcare.com)
+- 🔭 I’m currently working on [Ai Chat Bot](https://shoeeinstein.com/)
 
-- 🌱 I’m currently learning **Microservice**
+- 🌱 I’m currently learning **Distributed System Patterns**
 
-- 💬 Ask me about **Angular, NodeJs, NestJs, Next.Js, Springboot**
+- 💬 Ask me about **Angular, NodeJs, NestJs, Next.Js, Java, Springboot, Python, FastApi, NLP, RAG**
 
-- 📫 How to reach me **md.almahmudimran@gmail.com**
+- 📫 How to reach me **md.almahmudimran@gmail.com**.
 
 - ⚡ Fun fact **I think I am funny.**
 
