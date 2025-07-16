@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Microservice**
 
 - 💬 Ask me about **Angular, NodeJs, Springboot**
-- 💬 Ask me about **Angular, NodeJs, Nest, Springboot**
+- 💬 Ask me about **Angular, NodeJs, Nest, Springboot, Microservice, LLM, RAG**
 
 - 📫 How to reach me **md.almahmudimran@gmail.com**
 
