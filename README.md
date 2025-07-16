@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Distributed Architecture**
 
-- 💬 Ask me about **Angular, NodeJs, Nest, Springboot, Microservice, LLM, RAG**
+- 💬 Ask me about **Angular, NodeJs, Nest, Springboot, FastApi, Microservice, LLM, RAG**
 
 - 📫 How to reach me **md.almahmudimran@gmail.com**
 
