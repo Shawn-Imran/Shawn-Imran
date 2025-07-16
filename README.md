@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawn-imran" alt="shawn-imran" /></a> </p>
 
-- 🔭 I’m currently working on [FelnaTech](https://felnatech.com/)
+- 🔭 I’m currently working on [AI CHAT BOT](https://aichatbot.gdnserver.com/)
 
 - 🌱 I’m currently learning **Distributed Architecture**
 
