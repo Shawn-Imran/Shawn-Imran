@@ -7,9 +7,8 @@
 
 - 🔭 I’m currently working on [FelnaTech](https://felnatech.com/)
 
-- 🌱 I’m currently learning **Microservice**
+- 🌱 I’m currently learning **Distributed Architecture**
 
-- 💬 Ask me about **Angular, NodeJs, Springboot**
 - 💬 Ask me about **Angular, NodeJs, Nest, Springboot, Microservice, LLM, RAG**
 
 - 📫 How to reach me **md.almahmudimran@gmail.com**
