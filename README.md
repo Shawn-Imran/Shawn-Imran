@@ -2,6 +2,8 @@
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shawn-imran&label=Profile%20views&color=0e75b6&style=flat" alt="shawn-imran" /> </p>
+<!-- alternative -->
+   <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Shawn-Imran.Shawn-Imran&left_text=Profile%20views&left_color=gray&right_color=0e75b6" alt="shawn-imran" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawn-imran" alt="shawn-imran" /></a> </p>
 <p align="left">
