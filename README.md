@@ -5,7 +5,7 @@
 <!-- alternative -->
    <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Shawn-Imran.Shawn-Imran&left_text=Profile%20views&left_color=gray&right_color=0e75b6" alt="shawn-imran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawn-imran" alt="shawn-imran" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawn-imran" alt="shawn-imran" /></a> </p> -->
 <!-- alternative -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-mu.vercel.app/?username=shawn-imran" alt="shawn-imran" /></a> </p>
 
